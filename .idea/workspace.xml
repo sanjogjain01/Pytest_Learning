@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b19f978-3fdf-436c-9197-c1286cf990e5" name="Changes" comment="" />
+    <list default="true" id="1b19f978-3fdf-436c-9197-c1286cf990e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/conftest.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +46,7 @@
     "Python tests.Python tests in test_Demo_7.py.executor": "Run",
     "Python tests.Python tests in test_Demo_8.py.executor": "Run",
     "Python tests.Python tests in test_demo_7.py.executor": "Run",
+    "Python tests.Python tests in test_demo_9.py.executor": "Run",
     "Python.Lab085.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,7 +54,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Demo_8.TestDataExample">
+  <component name="RunManager">
     <configuration name="Python tests for test_Demo_1.test_firstprogram" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Pytest_Learning" />
       <option name="ENV_FILES" value="" />
